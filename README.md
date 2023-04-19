@@ -1,8 +1,3 @@
 E - COMMERCE WEB PROJECT IN SPRING BOOT
 
-## Features
-- ⚙️Spring Mvc, JDBC , Jsp Servlet
-- 📝ADMIN MODULE
-- ➕CRUD OPERATION
-
 
